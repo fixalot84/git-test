@@ -3,3 +3,4 @@ Hello world!
 
 Line of first commit.
 Line of second commit.
+Line of third commit.
